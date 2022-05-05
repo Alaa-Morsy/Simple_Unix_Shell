@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622754017 source:/media/alaa_morsy/Data 1/2nd term-3rd Comm/Operating SyS/LaBs/OS_lab1/Os_project_shell1/main.c
+	<string.h>
+	<signal.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+
